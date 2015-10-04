@@ -1,0 +1,1 @@
+Hello, this is my first file to be committed to a public git repository
